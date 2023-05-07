@@ -1,7 +1,10 @@
-### Hi there 👋
+### ✨ Check these projects:
+
+- [**Lazygit**](https://github.com/jesseduffield/lazygit), an intuitive and simple git client
+- [**XMonad**](https://github.com/xmonad/xmonad), a window manager configurable in Haskell
 
 <!--
-**iogrt/iogrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**iogrt/iogrt** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
