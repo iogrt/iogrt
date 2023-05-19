@@ -1,4 +1,4 @@
-### ✨ Check these projects:
+### ✨ Checkout these awesome projects:
 
 - [**Lazygit**](https://github.com/jesseduffield/lazygit), an intuitive and simple git client
 - [**XMonad**](https://github.com/xmonad/xmonad), a window manager configurable in Haskell
