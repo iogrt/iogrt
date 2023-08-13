@@ -1,7 +1,11 @@
-### ✨ Checkout these awesome projects:
+## 🧙 Welcome
+### <a href="https://iogrt.github.io"> 👨‍💻 Click here to see my hobby projects</a>
+
+### ✨ FOSS Software I highly recommend:
 
 - [**Lazygit**](https://github.com/jesseduffield/lazygit), an intuitive and simple git client
 - [**XMonad**](https://github.com/xmonad/xmonad), a window manager configurable in Haskell
+- [**NixOS**](https://nixos.org/), config file based OS, highly reproducible
 
 <!--
 **iogrt/iogrt** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
